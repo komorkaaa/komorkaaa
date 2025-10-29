@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋, I'm Dima!
 
-<!--
-**komorkaaa/komorkaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 &nbsp;I'm on track with learning more about Backend dev., DataOps, DevOps and Software Architecture.\
+✍️ &nbsp;In my free time, I enjoy hiking, swimming and spending time with family.\
+✉️ &nbsp;You can drop me an email at mr.komorka@gmail.com with a subject containing "GitHub: ..."! It will be a pleasure to talk with you!.\
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+---
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=komorkaaa&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=komorkaaa&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=komorkaaa&theme=dracula)
