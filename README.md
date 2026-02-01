@@ -5,7 +5,7 @@
 ### 🧐 A little bit about me:
 
 🌱 &nbsp;I'm on track with learning more about Backend dev., DataOps, DevOps and Software Architecture.\
-✍️ &nbsp;In my free time, I enjoy hiking, swimming and spending time with family.\
+✍️ &nbsp;In my free time, I enjoy hiking, swimming and spending time with family.
 
 ---
 
